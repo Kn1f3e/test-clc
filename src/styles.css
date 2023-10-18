@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+label {
+  font-weight: bold;
+}
+
+input {
+  margin-bottom: 11px;
+}
+
+h2 {
+  margin-top: 30px;
+}
